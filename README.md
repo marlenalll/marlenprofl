@@ -1,2 +1,2 @@
 # marlenprofl
-hello, My name is Marlen and this my portfolio, i am a student at IST coures at [MCIntosh high school ](https://www.fcboe.org/mhs) and im using github
+hello, My name is Marlen and this my portfolio, i am a student at IST coures at [MCIntosh high school ](https://www.fcboe.org/mhs)
