@@ -3,4 +3,5 @@ hello, My name is Marlen and this my portfolio, i am a student a IST coures at [
 
 ## contents
 - [RESUME](RESUME.md)
-- [binary](binary-Logic.md)
+- [Binary](binary-Logic.md)
+- [Programming](Programming-Language.md)
