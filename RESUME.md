@@ -10,6 +10,6 @@ i like reading book and study computers
 ## typing
 - key Learned 
 - J, F, space 
-- U,R,K space 
-- D,E,I space
--
+- U,R,K  
+- D,E,I 
+- C,G,N
