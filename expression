@@ -1,0 +1,15 @@
+#include <stdio.h> 
+int main () {
+
+   int a , b; 
+  char c; 
+
+   a=10; 
+   
+    b=20; 
+
+
+    scanf("%c", &c) 
+    
+
+      if 
